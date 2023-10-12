@@ -14,6 +14,7 @@
 |**14502**|**[연구소](http://www.acmicpc.net/problem/14502)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/14502.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C)**| gold_4 |
 |**3055**|**[탈출](http://www.acmicpc.net/problem/3055)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/3055.%E2%80%85%ED%83%88%EC%B6%9C)**| gold_4 |
  |**15683**|**[감시](http://www.acmicpc.net/problem/15683)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/15683.%E2%80%85%EA%B0%90%EC%8B%9C)**| gold_4 |
+ |**3190**|**[뱀](http://www.acmicpc.net/problem/3190)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/3190.%E2%80%85%EB%B1%80)**| gold_4 |
 |**1197**|**[ 최소 스패닝 트리 ](http://www.acmicpc.net/problem/1197)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/1197.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC)**| gold_4 |
   |**10026**|**[적록색약](http://www.acmicpc.net/problem/10026)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/10026.%E2%80%85%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD)**| gold_5 |
    |**15686**|**[치킨 배달](http://www.acmicpc.net/problem/15686)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/15686.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%B0%B0%EB%8B%AC)**| gold_5 |
