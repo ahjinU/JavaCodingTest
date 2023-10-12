@@ -5,6 +5,7 @@
  |  문제 번호  |  문제  |   링크    |  level    | 
   | :----: |  ----  |   :----:  |   :----:  |
   |**17143**|**[낚시왕](http://www.acmicpc.net/problem/17143)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/17143.%E2%80%85%EB%82%9A%EC%8B%9C%EC%99%95)**| gold_1 |
+   |**13460**|**[구슬 탈출2](http://www.acmicpc.net/problem/13460)**| **[문제 설명 및 내 풀이](https://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/13460.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C%E2%80%852)**| gold_1 |
   |**17135**|**[캐슬디펜스](http://www.acmicpc.net/problem/17135)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/17135.%E2%80%85%EC%BA%90%EC%8A%AC%E2%80%85%EB%94%94%ED%8E%9C%EC%8A%A4)**| gold_3 |
   |**15961**|**[회전 초밥 ](http://www.acmicpc.net/problem/15961)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/15961.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EC%B4%88%EB%B0%A5)**| gold_4 |
   |**17281**|**[⚾ ](http://www.acmicpc.net/problem/17281)**| **[문제 설명 및 내 풀이](http://github.com/ahjinU/JavaCodingTest/tree/master/%EB%B0%B1%EC%A4%80/Gold/17281.%E2%80%85%E2%9A%BE)**| gold_4 |
