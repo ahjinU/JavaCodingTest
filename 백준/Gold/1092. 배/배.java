@@ -1,3 +1,4 @@
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -34,19 +35,34 @@ public class Main {
 			System.out.println(-1);
 			return;
 		}
+		
+//		while (!box.isEmpty()) {
+//			for (int i = 0; i < N; i++) {
+//				for (int j = 0; j < box.size(); j++) {
+//					if (ship.get(i) >= box.get(j)) {
+//						box.remove(j);
+//						break;
+//					}
+//				}
+//			}
+//			result++;
+//		}
 
-
-		while(!box.isEmpty()) {
-            int idx =0;
-            for(int i=0; i< N; ) {
-                if(idx == box.size()) break;
-                else if(ship.get(i) >= box.get(idx)) {
-                    box.remove(idx);
-                    i++;
-                }else idx++;
-            }
-            result++;
-        }
+		while (!box.isEmpty()) {
+			int i = 0;
+			int ind = 0;
+			while (i < N) {
+				if (ind == box.size())
+					break;
+				else if (ship.get(i) >= box.get(ind)) {
+					box.remove(ind);
+					i++;
+				} else {
+					ind++;
+				}
+			}
+			result++;
+		}
 
 		System.out.println(result);
 
