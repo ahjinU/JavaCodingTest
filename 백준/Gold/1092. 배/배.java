@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Scanner;
+import java.util.StringTokenizer;
 
 public class Main {
 	static BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
@@ -13,20 +13,20 @@ public class Main {
 	static List<Integer> box = new ArrayList<>();
 
 	public static void main(String[] args) throws IOException {
-		Scanner sc = new Scanner(System.in);
+		StringTokenizer st = new StringTokenizer(bf.readLine());
+		N = Integer.parseInt(st.nextToken());
 
-		N = sc.nextInt();
-
+		st = new StringTokenizer(bf.readLine());
 		for (int i = 0; i < N; i++) {
-			ship.add(sc.nextInt());
+			ship.add(Integer.parseInt(st.nextToken()));
 		}
-		
-		M = sc.nextInt();
+		st = new StringTokenizer(bf.readLine());
+		M = Integer.parseInt(st.nextToken());
 
+		st = new StringTokenizer(bf.readLine());
 		for (int i = 0; i < M; i++) {
-			box.add(sc.nextInt());
+			box.add(Integer.parseInt(st.nextToken()));
 		}
-
 		Collections.sort(ship, Collections.reverseOrder());
 		Collections.sort(box, Collections.reverseOrder());
 
@@ -35,7 +35,6 @@ public class Main {
 			return;
 		}
 
-		int shipSize = ship.size();
 
 		while(!box.isEmpty()) {
             int idx =0;
