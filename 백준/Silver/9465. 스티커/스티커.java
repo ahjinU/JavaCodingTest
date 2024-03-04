@@ -48,14 +48,8 @@ public class Main {
 			}
 			
 			int result = -1;
-			for(int i=0;i<2;i++) {
-				for(int j=0;j<N;j++) {
-					result = Math.max(result, dp[i][j]);
-				}
-			}
-			
+			result = Math.max(dp[0][N-1],dp[1][N-1]);
 			sb.append(result).append("\n");
-			
 		}
 		System.out.println(sb);
 		
